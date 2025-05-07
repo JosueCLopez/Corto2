@@ -1,0 +1,11 @@
+com\tuempresa\libreria\model\Cliente.class
+com\tuempresa\libreria\model\DetalleVenta.class
+com\tuempresa\libreria\LibreriaApplication.class
+com\tuempresa\libreria\repository\VentaRepository.class
+com\tuempresa\libreria\model\Libro.class
+com\tuempresa\libreria\model\Autor.class
+com\tuempresa\libreria\repository\AutorRepository.class
+com\tuempresa\libreria\model\Venta.class
+com\tuempresa\libreria\repository\LibroRepository.class
+com\tuempresa\libreria\repository\ClienteRepository.class
+com\tuempresa\libreria\repository\DetalleVentaRepository.class
